@@ -2,16 +2,10 @@
 
 
 
-🎓 Estudante de **Ciência da Computação** na Universidade Presbiteriana Mackenzie (4º semestre - previsão de conclusão em Junho de 2027)  
+🎓 Estudante de **Ciência da Computação** na Universidade Presbiteriana Mackenzie (4º semestre - previsão de conclusão em Junho de 2027) com grande interesse em Machine Learning, Desenvolvimento de Software, Análise de Dados e Banco de Dados.
+Busco constantemente desafios para aplicar meus conhecimentos e crescer profissionalmen 
 📍 São Paulo, Brasil  
 ✉️ andreward457@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/andré-ward-83427a286/)
-
----
-
-## 💡 Sobre mim
-
-Sou um estudante de tecnologia, com grande interesse em **Machine Learning**, **Desenvolvimento de Software**, **Análise de Dados** e **Banco de Dados**.  
-Busco constantemente desafios para aplicar meus conhecimentos e crescer profissionalmente.
 
 ---
 
@@ -27,8 +21,6 @@ Busco constantemente desafios para aplicar meus conhecimentos e crescer profissi
 </p>
 
 ---
-
-
 
 ## 🌐 Idiomas
 
