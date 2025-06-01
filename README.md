@@ -22,11 +22,3 @@ Busco constantemente desafios para aplicar meus conhecimentos e crescer profissi
 
 ---
 
-## 🌐 Idiomas
-
-- 🇧🇷 Português (Nativo)  
-- 🇺🇸 Inglês (Intermediário)  
-- 🇸🇾 Árabe (Falado)  
-- 🇪🇸 Espanhol (Básico)  
-
-
