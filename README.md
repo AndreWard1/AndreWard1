@@ -2,7 +2,7 @@
 
 
 
-🎓 Computer Science student at Universidade Presbiteriana Mackenzie (4th semester – expected graduation in June 2027) with a strong interest in Machine Learning, Software Development, Data Analysis, and Databases.
+🎓 Computer Science student at Universidade Presbiteriana Mackenzie (4th semester – expected graduation in June 2027) with a strong interest in Software Development, Data Analysis, and Databases.
 I am constantly seeking challenges to apply my knowledge and grow professionally.
 📍 São Paulo, Brazil
 ✉️ andreward457@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/andré-ward-83427a286/)
