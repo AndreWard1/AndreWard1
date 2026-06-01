@@ -18,13 +18,9 @@ Estudante de Ciência da Computação focado em **Engenharia de Dados**. Constru
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://skillicons.dev/icons?i=python,postgres,docker,git,linux,vscode)
 
+Aprendendo: `Spark` `Airflow` `dbt` `AWS`
 Aprendendo: `Spark` `Airflow` `dbt` `AWS`
 
 
