@@ -27,17 +27,7 @@ Estudante de Ciência da Computação focado em **Engenharia de Dados**. Constru
 
 Aprendendo: `Spark` `Airflow` `dbt` `AWS`
 
----
 
-## Projetos 
-
-**[CEP Data Pipeline](LINK)** — ETL em Python consumindo a API ViaCEP, transformando com Pandas e exportando CSV estruturado
-
-**[SCTEC](LINK)** — Sistema de controle de telescópio em microsserviços com Flask, Node.js e Docker
-
-**[Book Reviews App](LINK)** — Dashboard de analytics com Streamlit, Pandas e Plotly
-
----
 
 
 </div>
