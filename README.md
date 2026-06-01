@@ -21,9 +21,6 @@ Estudante de Ciência da Computação focado em **Engenharia de Dados**. Constru
 ![](https://skillicons.dev/icons?i=python,postgres,docker,git,linux,vscode)
 
 Aprendendo: `Spark` `Airflow` `dbt` `AWS`
-Aprendendo: `Spark` `Airflow` `dbt` `AWS`
-
-
 
 
 </div>
